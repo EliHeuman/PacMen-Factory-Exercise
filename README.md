@@ -11,7 +11,7 @@ Importing Bootstrap to this project helped speed up production and styling. The 
 ###### list of links to the different repositories showcased:
 Repository Name  | Link
 -------------|--------------------
-PacMen Factory Exercise | <a href="https://github.com/EliHeuman/PacMen-Factory-Exercise">PacMen repository</a>
+GitHub Portfolio Project | <a href="https://github.com/EliHeuman/eliheuman.github.io">GitHub Portfolio repository</a>
 Eye Exercise | <a href="https://github.com/EliHeuman/Eye">Eye repository</a>
 Bus Tracker Exercise| <a href="https://github.com/EliHeuman/Real-Time-Bus">Bus Tracker repository</a>
 ___
