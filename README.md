@@ -26,7 +26,7 @@ ___
 ## Roadmap of future improvements
 - When you click start multiple times, the velocity increases—planning to limit this option.
 - Add a button to reduce packmen individually one at a time.
-__
+___
 #### License information
 
 <a href="https://github.com/EliHeuman/PacMen-Factory-Exercise/blob/master/License.txt">The MIT License (MIT)</a>
