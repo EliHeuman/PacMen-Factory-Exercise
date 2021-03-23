@@ -14,7 +14,7 @@ After cloning this project, you will see it consists of two main files and four 
 index.html,
 pacmen.js,
 images/pacman1 | images/pacman2 | images/pacman3 | images/pacman4
-
+The index.html file sets the DOM buttons that call the functions to create, move and delete the Pacman.
 ___
 ## Contribute
 Source Code: https://github.com/EliHeuman/PacMen-Factory-Exercise/blob/master/index.html
