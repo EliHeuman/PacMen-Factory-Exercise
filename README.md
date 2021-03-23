@@ -15,7 +15,7 @@ index.html,
 pacmen.js,
 images/pacman1 | images/pacman2 | images/pacman3 | images/pacman4
 The index.html file sets the DOM buttons that call the functions to create, move and delete the Pacman.
-The pacmen.js dos all the heavy lifting, creating an array of pacman called "pacMen" and loping through the array to move them and check if they've hit a wall. Depending on each packman's direction, the function "switchImg" changes the image to create a feeling that the packman is moving. 
+The pacmen.js does all the heavy lifting, creating an array of pacman called "pacMen" and loping through the array to move them and check if they've hit a wall. Depending on each packman's direction, the function "switchImg" changes the image to create a feeling that the packman is moving. 
 ___
 ## Contribute
 Source Code: https://github.com/EliHeuman/PacMen-Factory-Exercise/blob/master/index.html
