@@ -5,10 +5,11 @@ PacMen Factory Exercise:<a href="https://github.com/EliHeuman/PacMen-Factory-Exe
 PacMen Factory Exercise:<a href="http://eliheuman.github.io/PacMen-Factory-Exercise/"> Open</a>
 ___
 
-The GitHub Portfolio Project concludeds the first ten weeks of the MIT xPRO Full Stack Development with MERN course.
+The PacMen Factory Exercise concludeds the seventh week of the MIT xPRO Full Stack Development with MERN course.
 
 ## Description of the Project 
-Importing Bootstrap to this project helped speed up production and styling. The project has two pages linked by a Navbar. The landing page has a Bio, and a short video, and the projects page showcases the projects I worked on during the past weeks at the MIT course.
+PacMen Factory enables you to click and add random-sized packmen to the screen. Click start to see how the packmen bounce around back and forth. Reset the game at any time by clicking the reset button. This game uses mainly JavaScript.
+
 ###### list of links to the different repositories showcased:
 Repository Name  | Link
 -------------|--------------------
