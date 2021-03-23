@@ -25,7 +25,7 @@ ___
 __
 #### License information
 
-<a href="http://eliheuman.github.io/License.txt">The MIT License (MIT)</a>
+<a href="https://github.com/EliHeuman/PacMen-Factory-Exercise/blob/master/License.txt">The MIT License (MIT)</a>
 
 ###### list of links to the different repositories showcased:
 Repository Name  | Link
