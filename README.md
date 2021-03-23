@@ -10,7 +10,10 @@ The PacMen Factory Exercise concludeds the seventh week of the MIT xPRO Full Sta
 PacMen Factory enables you to click and add random-sized packmen to the screen. Click start to see how the packmen bounce around back and forth. Reset the game at any time by clicking the reset button. This game uses mainly JavaScript.
 ___
 ## How to Run
-
+After cloning this project, you will see it consists of two main files and four images.<br>
+index.html,
+pacmen.js,
+images/pacman1 | images/pacman2 | images/pacman3 | images/pacman4
 
 ___
 ## Contribute
