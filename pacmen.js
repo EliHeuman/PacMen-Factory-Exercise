@@ -1,3 +1,4 @@
+//Pacman image array
 const pacArray = [
   ['./images/Pacman1.png', './images/Pacman2.png'],
   ['./images/Pacman3.png', './images/Pacman4.png'],
@@ -59,12 +60,14 @@ function update() {
     item.newimg.style.left = item.position.x;
     item.newimg.style.top = item.position.y;
   });
+  // setTimeout(update, 60);
   let timer = setTimeout(update, 60);
+  //Resets the timer after the rest function is called.
   if(imgCounter == 0){
     clearTimeout(timer);
   };
 }
-
+//Changes images according to the direction of the Pacman.
 function switchImg(item){
   item.focus = (item.focus + 1) % 2;
   if(item.position.x - item.velocity.x + item.newimg.width > window.innerWidth && item.pos ==0 ||
@@ -77,11 +80,10 @@ function switchImg(item){
       item.pos = 1;
     }
     return item.newimg.src = pacArray[item.pos][item.focus];
- // setTimeout(switchImg, 200);
 } 
 
 function checkCollisions(item) {
-  // TODO: detect collision with all walls and make pacman bounce
+  //Detects collision with all walls and make pacman bounce
   if(item.position.x + item.velocity.x + item.newimg.width > window.innerWidth ||
     item.position.x + item.velocity.x < 0) item.velocity.x =- item.velocity.x;
   if(item.position.y + item.velocity.y + item.newimg.height > window.innerHeight ||
@@ -92,7 +94,7 @@ function makeOne() {
   pacMen.push(makePac()); // add a new PacMan
   imgCounter = imgCounter + 1;
 }
-
+//Resets the imgCounter and deletes all Pacman from the DOM.
 function reset() {
   for(let i= 0; i < imgCounter; i++){
     let elem = document.getElementById(i);
