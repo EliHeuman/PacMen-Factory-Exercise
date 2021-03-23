@@ -24,10 +24,12 @@ I continually updated the project as new projects emerge.
 
 <a href="http://eliheuman.github.io/License.txt">The MIT License (MIT)</a>
 
-Eli Heuman's website:<a href=https://eliheuman.github.io> eliheuman.github.io</a><br>
+
 ###### list of links to the different repositories showcased:
 Repository Name  | Link
 -------------|--------------------
 GitHub Portfolio Project | <a href="https://github.com/EliHeuman/eliheuman.github.io">GitHub Portfolio repository</a>
 Eye Exercise | <a href="https://github.com/EliHeuman/Eye">Eye repository</a>
 Bus Tracker Exercise| <a href="https://github.com/EliHeuman/Real-Time-Bus">Bus Tracker repository</a>
+
+Eli Heuman's website:<a href=https://eliheuman.github.io> eliheuman.github.io</a>
