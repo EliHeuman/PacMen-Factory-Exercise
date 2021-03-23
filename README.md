@@ -8,22 +8,24 @@ The PacMen Factory Exercise concludeds the seventh week of the MIT xPRO Full Sta
 
 ## Description of the Project 
 PacMen Factory enables you to click and add random-sized packmen to the screen. Click start to see how the packmen bounce around back and forth. Reset the game at any time by clicking the reset button. This game uses mainly JavaScript.
+___
+## How to Run
 
 
 ___
 ## Contribute
-Source Code: https://github.com/EliHeuman/eliheuman.github.io/blob/main/index.html
+Source Code: https://github.com/EliHeuman/PacMen-Factory-Exercise/blob/master/index.html
 
 ##### Support
 If you are having issues, please let me know, and <a href="mailto:biz.elih@gmail.com"> email me.</a>
 ___
-## Roadmap of future improvements and updates:
-I continually updated the project as new projects emerge.
-
+## Roadmap of future improvements
+- When you click start multiple times, the velocity increases—planning to limit this option.
+- Add a button to reduce packmen individually one at a time.
+__
 #### License information
 
 <a href="http://eliheuman.github.io/License.txt">The MIT License (MIT)</a>
-
 
 ###### list of links to the different repositories showcased:
 Repository Name  | Link
